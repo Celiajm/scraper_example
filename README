@@ -1,0 +1,7 @@
+The soup and scraper classes we used in the presentation today. I also included the NPI scraper so you can see how the classes are used in situ.
+Also included are the different parsing libraries you can use which we ran out of time to go over. Make sure that you have chromedriver and phantomjs (which is now depreciated) installed and change the executable path accordingly in scraper.py
+
+This is the IDE I was using for the presentation: https://www.jetbrains.com/pycharm/
+They have a whole suite of IDEs so definitely check out the others.
+
+Also try not to judge on the quality of the scraper code - it was never meant to see the light of day.
